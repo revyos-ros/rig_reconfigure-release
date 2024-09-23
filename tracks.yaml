@@ -1,4 +1,4 @@
-release_repo_url: git@github.com:revyos-ros/rig_reconfigure-release
+release_repo_url: git@github.com:revyos-ros/rig_reconfigure-release.git
 tracks:
   humble:
     actions:
