@@ -1,3 +1,26 @@
+## rig_reconfigure (humble) - 1.5.0-2
+
+The packages in the `rig_reconfigure` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r humble rig_reconfigure --override-release-repository-push-url git@github.com:revyos-ros/rig_reconfigure-release.git` on `Wed, 20 Nov 2024 08:35:32 -0000`
+
+The `rig_reconfigure` package was released.
+
+Version of package(s) in repository `rig_reconfigure`:
+
+- upstream repository: https://github.com/teamspatzenhirn/rig_reconfigure.git
+- release repository: https://github.com/revyos-ros/rig_reconfigure-release.git
+- rosdistro version: `1.5.0-2`
+- old version: `1.5.0-1`
+- new version: `1.5.0-2`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## rig_reconfigure (jazzy) - 1.5.0-1
 
 The packages in the `rig_reconfigure` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r jazzy rig_reconfigure --override-release-repository-push-url git@github.com:revyos-ros/rig_reconfigure-release.git` on `Wed, 09 Oct 2024 07:13:07 -0000`
