@@ -1,4 +1,4 @@
-From 7730e22023afccfd5ec4a4870a5b19abf5aa22e5 Mon Sep 17 00:00:00 2001
+From 8cd46c3bcab67fba220fb2ed2985005e27b60250 Mon Sep 17 00:00:00 2001
 From: Zheng Junjie <zhengjunjie@iscas.ac.cn>
 Date: Wed, 20 Nov 2024 16:12:34 +0800
 Subject: [PATCH] set FETCHCONTENT_FULLY_DISCONNECTED=off
